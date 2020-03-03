@@ -1,3 +1,6 @@
+### SET TO LOCAL IMAGE RUNNING MODE - ASD
+
+
 ###fix numbered bug
 regex snr
 ###doubleclick manual rename single item
